@@ -9,5 +9,6 @@ public class Principal {
       cuentaBancaria cb = new cuentaBancaria("caro", "s0ws", 200.00, "peso", "digital");
       
       cb.getMoneda();
+        System.out.println("Holaa");
 }
 }
